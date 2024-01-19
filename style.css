@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+
+#main{
+    color: chartreuse;
+    font-weight: 700;
+}
+
+.aster{
+    color: crimson;
+    font-weight: 500;
+}
